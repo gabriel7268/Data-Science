@@ -278,9 +278,9 @@ FORMAÇÃO DE CIENTISTAS
 
 
 
-##Roadmap:
+## Roadmap:
 
-###Math: Statistics, Linear Algebra
+### Math: Statistics, Linear Algebra
 
 Programming: Python, R, SQL
 
@@ -295,9 +295,10 @@ Projects, Competitions: kaggle...
 Read done codes, Pull requests
 
 
-#Detailed:
+# Detailed:
 
-##Statistics: Standard deviation, mean, median, correlation, distribuitions, hyphotesis tests...
+## Statistics:
+` Standard deviation, mean, median, correlation, distribuitions, hyphotesis tests...`
 
 Linear Algebra: vectors, matrix
 
@@ -307,7 +308,7 @@ R: Basic
 
 SQL: Basic for Data Science
 
-#Comportamento:
+# Comportamento:
 
 Estudo de: Math (Statistics, Linear Algebra), Programação (Python, R Basico, SQL...), Técnico (DA, DS, ML)
 
