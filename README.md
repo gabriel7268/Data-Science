@@ -16,13 +16,8 @@ Python Libraries (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras...)
 
 ...
 
-
-
-Controle, Automação, Informátia, Programação, Machine Learning
-
 Data Science Academy, Alura, Kaggle
 
-PPC, Série de Taylor, Linearização, Var Desvio, Espaço Estado, MATLAB,
 
 Kaggle Competitions, ML Projects
 
@@ -30,17 +25,12 @@ Python (Intermidiate, Advanced, Projets), R, DL, CV, Ind4,
 
 Libraries [TensorFlow, Keras, Pandas, Matplotlib, Numpy, Seaborn, Scikitlearn] Django web development,
 
-German language, volunteering
 
 Project: Predictions of COVID number of infecteds.....)
-
-IT Infrastructure
 
 Cloud Computing (AWS...)
 
 Software Development
-
-Automation, IoT, Web & Mobile Dev
 
 Machine Learning (Spark...
 
@@ -53,50 +43,6 @@ PSO
 Recozimento Simulado
 
 Enxame de abelha
-
-Estatística
-
-Otimização
-
-Unigou, Erasmus, Aiesec, Fraunhofer international internship
-
-motor de inducao
-
-motor brushless
-
-motor cc e ca
-
-servo motor
-
-motor trifásico
--------------
-Carrer
-
-ML Eng
-
-Data Scientist
-
-Backend
-
-Soft, Web, Mobile Developer
-
-Full Stack
-
-Automation Eng
-
-Robotics Eng
-
-Control Eng
-
-Process Eng
-
-Maintenance Eng
-
-Eng Teacher
-
---------------
-
-Aprender
 
 ML 
 
@@ -188,55 +134,6 @@ Data Science Academy
 https://www.w3schools.com/sql/
 
 Hashtag Train
-
---------------
-
-Inter
-
-Fraunhofer
-
-Datacamp
-
-AIESEC
-
-Unigou
-
-Erasmus
-
-InternShala
-
-Internship abroad
-
---------------
-
-Job
-
-Google
-
-Microsoft
-
-IBM
-
-Amazon
-
-Facebook
-
-Audi
-
-Volvo
-
-Apple
-
-Nubank
-
-Ifood
-
-Itaú
-
-Stefanini
-
-https://jobs.kenoby.com/maratonalytics
-
 ____________________________________________
 
 Project COVID-19 Predictions
@@ -246,12 +143,6 @@ Project Soft de Personal Plan
 Project Notebook Python & Libraries
 
 Projetos Voluntarios (ML...)
-
-
-Ser indispensável
-Definir metas
-conversar
-definir prazos
 
 
 Forms para participar do grupo de estudo em Data Science: 
@@ -271,15 +162,7 @@ FORMAÇÃO DE CIENTISTAS
 
 
 
-
-
-
-
-
-
-
 ## Roadmap:
-
 ### Math: Statistics, Linear Algebra
 
 Programming: Python, R, SQL
@@ -292,11 +175,10 @@ Read, Apply Python Libraries: pandas, numpy, matplotlib, seaborn, scikit learn, 
 
 Projects, Competitions: kaggle...
 
-Read done codes, Pull requests
+Read codes, Pull requests
 
 
 # Detailed:
-
 ## Statistics:
 ` Standard deviation, mean, median, correlation, distribuitions, hyphotesis tests...`
 
@@ -304,36 +186,16 @@ Linear Algebra: vectors, matrix
 
 Python: Basic, Intermidiate, Advanced, OOP
 
-R: Basic
-
-SQL: Basic for Data Science
-
 # Comportamento:
 
-Estudo de: Math (Statistics, Linear Algebra), Programação (Python, R Basico, SQL...), Técnico (DA, DS, ML)
+Estudo de: Math (Statistics, Linear Algebra), Programação (Python, R Basico, SQL...), (DA, DS, ML)
 
 Por: Cursos Online, Videos, Livros, Posts, Sites, Medium, Artigos, Ler Pull requests, conferencias, eventos
 
 Praticar: Projetos pessoais, competições, colaboração, reproduzir projetos prontos
 
-Analisar: requirements vagas
-
 Ferramentas: kaggle, coursera, youtube, medium, kdnugges, alura, colab, tensorflow, keras, pandas, numpy, matplotlib, scikit-learn, plotly, tableau, power bi
 
-Futuro: dev web, soft & mobile, kubernets, aws, docker, serverless, cloud computing
-
-
-
-
-Dúvidas:
-Active Directory
-Servidor Gerenciamento PCs
-Dominio empresa.net
-comportamento integrador
-auto regressor
-covariancia
-
-convexo min global
 
 OLGA
 ARIMA
@@ -346,14 +208,6 @@ rajakarunakaran 2008
 (SOUZA, 2014).
 (IBP 2019)
 
-RNN para estimação em tempo real e predições infinitas
-controle preditivo
-Classificação com Envelope de operação da bomba (operação em desgaste ou nao desgaste)
-Embarcar em CLP
-Cartas de registro de amperagem
-
-arrow2798675gabriel@gmail.com
-projetoarrow@2021
 
 Method = function related to that instance of a class. Use this type it when you are using values of the own instance (its own name, age, etc). You need to create one instance to use it.
 
